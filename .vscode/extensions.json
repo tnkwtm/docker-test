@@ -2,6 +2,9 @@
     //拡張機能の推奨に追加
     "recommendations": [
         "gruntfuggly.todo-tree",
-        "mosapride.zenkaku"
+        "mosapride.zenkaku",
+        "eamodio.gitlens",
+        "donjayamanne.python-extension-pack",
+        "oderwat.indent-rainbow"
     ]
 }
